@@ -14,7 +14,7 @@ SHARED_OR_STATIC="
 --enable-static
 "
 
-LIBAV_VERSION=libav-0.8.16
+LIBAV_VERSION=libav-11.2
 TAGLIB_VERSION=taglib-1.9.1
 FFTW_VERSION=fftw-3.3.2
 LIBSAMPLERATE_VERSION=libsamplerate-0.1.8
