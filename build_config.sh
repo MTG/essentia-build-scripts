@@ -25,7 +25,6 @@ GAIA_VERSION=v2.4.4
 LIBAV_AUDIO_FLAGS="
     --disable-doc
     --disable-debug
-    --disable-ffmpeg
     --disable-avconv
     --disable-avplay
     --disable-avprobe 
